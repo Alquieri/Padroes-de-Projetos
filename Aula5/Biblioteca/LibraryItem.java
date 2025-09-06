@@ -1,6 +1,6 @@
 package Aula5.Biblioteca;
 
-public abstract class LibraryItem implements Borrowable {
+public abstract class LibraryItem implements IBorrowable {
     protected String title;
     protected String author;
     protected int publicationYear;

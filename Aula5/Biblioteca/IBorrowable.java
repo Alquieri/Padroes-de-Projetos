@@ -1,6 +1,6 @@
 package Aula5.Biblioteca;
 
-public interface Borrowable {
+public interface IBorrowable {
         
         void borrow();
         void returnItem();
