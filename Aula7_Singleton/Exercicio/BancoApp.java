@@ -1,4 +1,4 @@
-package Aula7_Singleton;
+package Aula7_Singleton.Exercicio;
 
 public class BancoApp {
 
