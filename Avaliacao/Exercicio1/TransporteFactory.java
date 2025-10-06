@@ -1,5 +1,7 @@
 package Avaliacao.Exercicio1;
 
+// A fábrica. Esconde os 'if' e 'new'.
+
 public class TransporteFactory {
 
     public ITransporte criarTransporte(String tipo) {

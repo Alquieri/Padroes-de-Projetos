@@ -1,6 +1,7 @@
 package Avaliacao.Exercicio1;
 
-
+// Classe pra carregar os dados do cálculo.
+ 
 public class DadosCalculo {
     private Double distancia;
     private Double peso;
