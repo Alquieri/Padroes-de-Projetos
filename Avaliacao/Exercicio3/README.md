@@ -1,0 +1,3 @@
+O padrão Observer foi escolhido para esta solução porque ele permite que um TopicoNoticia notifique múltiplos Leitores de forma automática, sem que o tópico precise conhecer detalhes específicos de quem são seus assinantes.
+
+![alt text](image.png)
