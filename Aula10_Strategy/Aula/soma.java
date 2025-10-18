@@ -1,4 +1,4 @@
-package Aula10_Strategy;
+package Aula10_Strategy.Aula;
 
 public class soma implements IEstrategia{
 
