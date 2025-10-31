@@ -22,7 +22,7 @@ public class NoCoinState implements IState {
     @Override
     public void selectProduct() {
         System.out.println("Insira uma moeda");
-        this.context.selectProduct(new NoCoinState(context));
+        // this.context.selectProduct(new NoCoinState(context));
     }
   
     
