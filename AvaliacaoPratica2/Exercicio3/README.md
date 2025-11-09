@@ -1,0 +1,1 @@
+Eu usei o padrão State (Estado) porque o comportamento da UsinaNuclear mudava radicalmente dependendo da situação (temperatura, falhas). Em vez de criar um método checarSensores() gigante cheio de if/else para testar o estado atual , o padrão State me permitiu isolar a lógica de cada estado em sua própria classe.
