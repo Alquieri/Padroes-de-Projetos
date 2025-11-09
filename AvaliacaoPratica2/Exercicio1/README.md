@@ -2,3 +2,4 @@ Usei o Padrão Strategy (Estratégia) porque a Questão 1 pedia para trocar os a
 
 
 
+  

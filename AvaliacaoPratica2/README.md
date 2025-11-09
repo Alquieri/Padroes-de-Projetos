@@ -15,7 +15,7 @@ INSTRUÇÕES GERAIS
 
 
 
-QUESTÃO 1 (Nota: 0,5: 
+QUESTÃO 1 (Nota: 0,5): 
 Contexto: Você está desenvolvendo um sistema de processamento de dados para uma empresa financeira que lida com diferentes tipos de análise de risco. O sistema precisa calcular métricas de risco usando diferentes algoritmos (Value at Risk, Expected Shortfall, Stress Testing) que podem mudar dinamicamente durante a execução.
 
 Problema:
@@ -48,7 +48,6 @@ Problema:
 - Implemente de forma que o funcionamento seja bidirecional, ou seja, que também permita converter respostas do legado para o formato atualizado
 
 - Adicione tratamento para campos obrigatórios do legado que não existem na interface moderna (ao menos um)
-
 
 
 Restrições:
