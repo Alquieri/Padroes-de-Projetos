@@ -1,0 +1,1 @@
+Usei o Chain of Responsibility porque o exercício pedia uma validação "em cadeia". Criei cada validador como um elo, e uma classe-base controlou a lógica de pular etapas (condicional) e parar a cadeia automaticamente. O padrão também permitiu criar uma cadeia reversa para o rollback
