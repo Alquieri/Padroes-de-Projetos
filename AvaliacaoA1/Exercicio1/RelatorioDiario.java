@@ -4,7 +4,7 @@ public class RelatorioDiario implements Relatorio{
 
     @Override
     public void gerarRelatorio(){
-        System.out.println("Relatório Semanal concluído.");
+        System.out.println("Relatório Diario concluído.");
     } 
     
 }
